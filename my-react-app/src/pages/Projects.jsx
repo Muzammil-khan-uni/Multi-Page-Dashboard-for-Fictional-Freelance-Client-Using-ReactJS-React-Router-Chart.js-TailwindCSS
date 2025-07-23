@@ -1,5 +1,4 @@
 const Projects = () => {
-  // Mock projects data
   const projects = [
     { id: 1, name: 'E-commerce Website', status: 'In Progress', deadline: '2023-08-15', client: 'ShopRight' },
     { id: 2, name: 'Mobile App Development', status: 'Completed', deadline: '2023-07-10', client: 'TechStart' },
