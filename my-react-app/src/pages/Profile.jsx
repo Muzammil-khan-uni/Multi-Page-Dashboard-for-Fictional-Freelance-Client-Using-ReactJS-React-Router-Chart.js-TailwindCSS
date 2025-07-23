@@ -20,7 +20,6 @@ const Profile = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setEditMode(false);
-    // Here you would typically send the data to your backend
   };
 
   return (
