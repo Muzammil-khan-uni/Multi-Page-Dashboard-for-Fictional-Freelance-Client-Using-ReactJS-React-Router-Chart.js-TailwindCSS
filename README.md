@@ -1,6 +1,6 @@
 # Multi-Page Dashboard for a Fictional  Freelance Client Using ReactJS React Router Chart.js and TailwindCSS
 
-[![IMAGE ALT TEXT HERE]()](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7353722624419459073?compact=1)
+[![IMAGE ALT TEXT HERE](https://github.com/Muzammil-khan-uni/Multi-Page-Dashboard-for-Fictional-Freelance-Client-Using-ReactJS-React-Router-Chart.js-TailwindCSS/blob/main/Screenshot%202025-07-23%20150009.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7353722624419459073?compact=1)
 
 
 The Freelance Admin Dashboard is a modern, multi-page web application built for a fictional freelance client to help manage their projects, track earnings, monitor tasks, and update personal settings. Designed with a clean and responsive UI, this dashboard demonstrates a full-stack-ready front-end structure using ReactJS, React Router, Chart.js, and TailwindCSS.
