@@ -3,7 +3,6 @@ import { Bar } from 'react-chartjs-2';
 import SummaryCard from '../components/SummaryCard';
 import ActivityItem from '../components/ActivityItem';
 
-// Register ChartJS components
 ChartJS.register(
   BarElement,
   CategoryScale,
@@ -13,7 +12,6 @@ ChartJS.register(
 );
 
 const Overview = () => {
-  // Chart data
   const earningsData = {
     labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
     datasets: [
@@ -47,7 +45,6 @@ const Overview = () => {
     }
   };
 
-  // Recent activities
   const activities = [
     { id: 1, message: 'Started new project "E-commerce Site"', time: '30 minutes ago' },
     { id: 2, message: 'Completed milestone for "Mobile App"', time: '2 hours ago' },
